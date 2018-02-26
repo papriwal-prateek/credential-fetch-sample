@@ -1,0 +1,21 @@
+{
+  "name": "credential-fetch-sample",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaeda/credential-fetch-sample.git"
+  },
+  "author": "Takeshi Yaeda <t.yaeda@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaeda/credential-fetch-sample/issues"
+  },
+  "homepage": "https://github.com/yaeda/credential-fetch-sample#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
